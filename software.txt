@@ -1,2 +1,2 @@
-java
-tomcat
+java 14
+tomcat 37
